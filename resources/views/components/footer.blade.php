@@ -1,6 +1,4 @@
-<footer className="app-footer">
-    <div className="float-end d-none d-sm-inline">
-        All rights reserved by EMBD8
-    </div>
-    <strong>Copyright © 2026 Barangay Information System</strong>
+<footer class="app-footer">
+    <div class="float-end d-none d-sm-inline">Version 4.0.0</div>
+    <strong>&copy; 2026 Your Company</strong>
 </footer>
